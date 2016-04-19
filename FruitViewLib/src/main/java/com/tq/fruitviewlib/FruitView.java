@@ -22,7 +22,11 @@ public class FruitView extends FrameLayout {
             R.mipmap.p1,
             R.mipmap.p3,
             R.mipmap.p5,
-            R.mipmap.p7};
+            R.mipmap.p7 ,
+            R.mipmap.p2,
+            R.mipmap.p4,
+            R.mipmap.p6,
+            R.mipmap.p8};
     private int mIndex;//当前图片的下标
     private boolean mSkip = true;
     private int MAX_HEIGHT = 100;
