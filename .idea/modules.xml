@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DampingView.iml" filepath="$PROJECT_DIR$/DampingView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FruitViewLib/FruitViewLib.iml" filepath="$PROJECT_DIR$/FruitViewLib/FruitViewLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
