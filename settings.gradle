@@ -1,1 +1,1 @@
-include ':app', ':FruitViewLib', ':FruitViewLib'
+include ':app', ':FruitViewLib', ':FruitViewLib', ':DampingViewPager'
