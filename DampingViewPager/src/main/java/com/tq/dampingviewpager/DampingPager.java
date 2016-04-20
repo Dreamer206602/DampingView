@@ -29,6 +29,9 @@ public class DampingPager extends ViewPager {
     public DampingPager(Context context, AttributeSet attrs) {
         super(context, attrs);
     }
+    public void setPagerCount(int pagerCount){
+        this.pagerCount=pagerCount;
+    }
 
     //在onPageSelect方法中调用它
     public void setCurrentIndex(int currentItem) {
